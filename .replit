@@ -1,1 +1,1 @@
-run = "javac LiberateToAutomate.java && java LiberateToAutomate"
+run = "javac BarowoProject1.java && java BarowoProject1 "
